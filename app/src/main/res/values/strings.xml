@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kamify</string>
+    <string name="author">wowa</string>
+
+    <string name="first_title">Ballerina</string>
+    <string name="second_title">Blue Sky</string>
+    <string name="third_title">Please Wait</string>
+
+    <string name="first_duration">1:59</string>
+    <string name="second_duration">0:55</string>
+    <string name="third_duration">4:47</string>
+
+</resources>
