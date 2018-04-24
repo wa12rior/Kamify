@@ -9,6 +9,8 @@ The goal was to design and layout the flow for the structure of a Music Player a
 
 * [Android Studio](https://developer.android.com/studio/index.html)
 * [Material Design](https://material.io/guidelines/) 
+* [Stack Overflow](https://stackoverflow.com/)
+* [Udacity](https://udacity.com)
 
 #### Goals
 
